@@ -20,6 +20,7 @@ To start our engagement with Social Buzz, we are running a 3 month initial proje
 - An analysis of their content categories that highlights the top 5 categories with the largest aggregate popularity
 
 # Business Task 
+I was tasked with conducting an analysis to identify their top 5 categories.
 * Conduct an analysis of Social Buzz content categories that highlights the top 5 categories with the largest aggregate popularity
 * Gain and translate insights into actionable marketing strategies for Social Buzz
 * Presentation of findings and recommendations to the Social Buzz executive team.
@@ -31,11 +32,10 @@ I will follow the 6 steps of the data analysis process - Ask, Prepare, Process, 
 * What are the top 5 content categories?
 
 ## 2. Prepare 
-I am using the dataset provided to me by Accenture. This dataset consist of three data namely, contenet, reactions and reaction types. 
+I am using the dataset provided to me by Accenture. This dataset consists of three data namely, content, reactions and reaction types. 
 
 ## 3. Process 
 Check out the sheets on excel [here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fdomeru369%2Fsocial-buzz-project%2Fmain%2FA%2520CLEANED%2520DATASET%2520SHOWING%2520THE%2520TOP%25205%2520CATEGORIES.xlsx&wdOrigin=BROWSELINK)
-* I used microsoft excel for this project 
 * Using Microsoft Excel, I cleaned and prepped the data, making sure it was sparkling clean and ready for analysis. 
 * I started by checking if the data types are accurate. I changed the date format to datetime.
 * I checked for missing values of each data by filtering out blanks and deleting them.
@@ -52,7 +52,7 @@ Check out the sheets on excel [here](https://view.officeapps.live.com/op/view.as
 
 ## 5. Share 
 ### Findings
-For the presentation deck, click [here](https://github.com/domeru369/social-buzz-project/blob/main/top%20five%20categories%20presention.pptx) 
+For the presentation deck, click [here](https://github.com/domeru369/social-buzz-project/blob/main/social%20buzz%20presention.pptx) 
 
 The top 5 most popular categories on Social Buzz, ranked by the popularity score
 * Animals: The clear winner! People love seeing cute cats, funny dogs, and all sorts of amazing creatures on Social Buzz with a score of 73271
@@ -87,8 +87,6 @@ The top 5 most popular categories on Social Buzz, ranked by the popularity score
 
 
 ## 7. Next steps 
-* Beyond the Numbers: Now that we know what kind of content resonates with users, let's dig deeper by exploring subcategories within these themes (e.g., specific animal types, science fields, healthy eating trends). and identifying the most engaging content formats (videos, images, text posts) within these categories.
-
-* Its time to take this analysis further into large scale production for real time understanding of your business.
+* This ad hoc analysis is insightful, but its time to take this analysis further into large scale production for real time understanding of your business.
 
 
