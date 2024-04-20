@@ -34,7 +34,7 @@ I will follow the 6 steps of the data analysis process - Ask, Prepare, Process, 
 I am using the dataset provided to me by Accenture. This dataset consist of three data namely, contenet, reactions and reaction types. 
 
 ## 3. Process 
-Check out the process [here](
+Check out the sheets on excel [here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fdomeru369%2Fsocial-buzz-project%2Fmain%2FA%2520CLEANED%2520DATASET%2520SHOWING%2520THE%2520TOP%25205%2520CATEGORIES.xlsx&wdOrigin=BROWSELINK)
 * I used microsoft excel for this project 
 * Using Microsoft Excel, I cleaned and prepped the data, making sure it was sparkling clean and ready for analysis. 
 * I started by checking if the data types are accurate. I changed the date format to datetime.
@@ -51,6 +51,44 @@ Check out the process [here](
 * I created the Pivot table to summarize the data and charts to display the data
 
 ## 5. Share 
-Findings
+### Findings
+For the presentation deck, click [here](https://github.com/domeru369/social-buzz-project/blob/main/top%20five%20categories%20presention.pptx) 
+
+The top 5 most popular categories on Social Buzz, ranked by the popularity score
+* Animals: The clear winner! People love seeing cute cats, funny dogs, and all sorts of amazing creatures on Social Buzz with a score of 73271
+
+* Healthy Eating: Looks like users are a health-conscious bunch! Healthy recipes, fitness tips, and wellness content are a big hit. 
+
+* Food: Food is always a crowd-pleaser. From delicious dishes to mouthwatering desserts, food content keeps people engaged.
+
+* Science: There's a thirst for knowledge on Social Buzz! Science content and interesting facts are a winning formula.
+
+* Technology: People are curious about the latest tech trends and gadgets. Sharing tech news and reviews keeps users coming back for more.
+
+* Bonus Find: We noticed a higher score for healthy eating compared to general food. This suggests users might be particularly interested in healthy lifestyle content.
+
+
+## 6. Recommendations 
+1. Content Strategy by Category:
+* Animals & Science: Double down on factual and visually engaging content. Partner with animal shelters, science communicators, or educational institutions to create high-quality * videos, infographics, or live streams.
+* Healthy Eating: Embrace the health-conscious user base! Partner with healthy food bloggers or fitness influencers to develop recipes, workout tips, or healthy lifestyle challenges.
+
+2. User Engagement & Personalization:
+* Leverage User Behavior: Use data to personalize content recommendations for each user. Show users more of what they love (e.g., suggesting healthy recipes to users who engage with healthy eating content).
+* A/B Test & Experiment: Test different content formats (videos vs. images) and themes within categories to see what resonates most with users.
+
+3. Grow Your Content Reach:
+* Partner with Influencers: Find influencers who align with top categories and collaborate on sponsored content or challenges.
+* Run Targeted Campaigns: Leverage Social Buzz's targeting features to promote content to specific user segments based on their interests (e.g., healthy eating content to users who engage with fitness content).
+
+4. Embrace Real-time Data:
+* Implement real-time analytics tools: Gain continuous insights into user behavior and content performance.
+* Track key metrics: Monitor user engagement, platform usage, and content performance to measure the success of your strategy.
+
+
+## 7. Next steps 
+* Beyond the Numbers: Now that we know what kind of content resonates with users, let's dig deeper by exploring subcategories within these themes (e.g., specific animal types, science fields, healthy eating trends). and identifying the most engaging content formats (videos, images, text posts) within these categories.
+
+* Its time to take this analysis further into large scale production for real time understanding of your business.
 
 
