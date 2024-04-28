@@ -60,8 +60,6 @@ For the presentation deck, click [here](https://github.com/domeru369/social-buzz
 
 ![image](https://github.com/domeru369/social-buzz-project/assets/147932481/deaf369d-2a6f-4947-8b10-a69007157d1a)
 
-![image](https://github.com/domeru369/social-buzz-project/assets/147932481/0c110619-9700-4f9f-9fc6-8db1e09ce3c8)
-
 The top 5 most popular categories on Social Buzz, ranked by the popularity score
 * Animals: The clear winner! People love seeing cute cats, funny dogs, and all sorts of amazing creatures on Social Buzz with a score of 73271
 
@@ -80,6 +78,13 @@ The top 5 most popular categories on Social Buzz, ranked by the popularity score
 * Animals : Social Buzz users are animal lovers! The "Animals" category alone sparked a whopping 1,926 reactions!
 
 * January Rush: People seem to be more social in January, with this month seeing the highest volume of posts. Perhaps it's a way to reconnect after the holidays?
+
+
+![image](https://github.com/domeru369/social-buzz-project/assets/147932481/0c110619-9700-4f9f-9fc6-8db1e09ce3c8)
+
+Additionally, it can be seen from this chart the % split of popularity between the top 5 categories. There is not much difference between the share of each category, however, the difference between the 1st most popular, animals and the 2nd most popular, science, is the largest gap equal to 1.1%.
+
+In business terms, this could suggest that the most popular category, animals, is tailing away from the rest of the categories and may continue to get more and more popular. To avoid an issue where 1 content category consumes the entire platform, it will be important to ensure that any algorithms used to govern the content on the platform gives a fair balance to the content categories.
 
 
 ![image](https://github.com/domeru369/social-buzz-project/assets/147932481/40c5a33c-fc0b-48b7-9256-2142a700b396)
