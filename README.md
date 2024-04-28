@@ -58,6 +58,10 @@ Check out the sheets on excel [here](https://view.officeapps.live.com/op/view.as
 ### Findings
 For the presentation deck, click [here](https://github.com/domeru369/social-buzz-project/blob/main/social%20buzz%20presention.pptx) 
 
+![image](https://github.com/domeru369/social-buzz-project/assets/147932481/deaf369d-2a6f-4947-8b10-a69007157d1a)
+
+![image](https://github.com/domeru369/social-buzz-project/assets/147932481/0c110619-9700-4f9f-9fc6-8db1e09ce3c8)
+
 The top 5 most popular categories on Social Buzz, ranked by the popularity score
 * Animals: The clear winner! People love seeing cute cats, funny dogs, and all sorts of amazing creatures on Social Buzz with a score of 73271
 
@@ -76,6 +80,19 @@ The top 5 most popular categories on Social Buzz, ranked by the popularity score
 * Animals : Social Buzz users are animal lovers! The "Animals" category alone sparked a whopping 1,926 reactions!
 
 * January Rush: People seem to be more social in January, with this month seeing the highest volume of posts. Perhaps it's a way to reconnect after the holidays?
+
+
+![image](https://github.com/domeru369/social-buzz-project/assets/147932481/40c5a33c-fc0b-48b7-9256-2142a700b396)
+
+It seems there are distinct periods where Social Buzz sees an increase in user activity:
+January: This could be due to people reconnecting after the holiday season and sharing New Year's resolutions or experiences.
+
+May: Perhaps this coincides with holidays or events like Mother's Day, graduations, or the start of summer in some regions, leading to increased social sharing.
+
+December: The holiday season is naturally a time for increased social interaction, with people sharing gift ideas, festivities, and celebrations.
+
+Summer (July & August): This could be due to people having more free time during vacations, holidays, or warmer weather, leading to them spending more time online and sharing experiences.
+
 
 ## 6. Recommendations 
 1. Content Strategy by Category:
